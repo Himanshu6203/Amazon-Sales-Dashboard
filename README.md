@@ -52,7 +52,7 @@ The goal of this project is to:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](add-your-image-link-here)
+![Dashboard Screenshot](https://github.com/Himanshu6203/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
 
 ---
 
