@@ -55,13 +55,15 @@ The goal of this project is to:
 ![Dashboard Screenshot](https://github.com/Himanshu6203/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
 
 ---
-## 📂 Project Structure
-Amazon-Sales-Dashboard/
-│── dataset/ # Raw data (Excel/CSV)
-│── dashboard/ # Power BI (.pbix file)
-│── images/ # Dashboard screenshots
-│── README.md
+## 📂 Description
 
+- **dataset/**: Contains the original dataset used for analysis  
+- **excel/**: Includes cleaned data and preprocessing steps performed in Excel  
+- **dashboard/**: Contains the Power BI file used to build the interactive dashboard  
+- **images/**: Stores dashboard screenshots used in this README  
+- **README.md**: Project documentation
+
+  
 ## 🔄 Near Real-Time Functionality
 
 The dashboard supports near real-time updates by:
