@@ -56,9 +56,6 @@ The goal of this project is to:
 
 ---
 
-## 📂 Project Structure
-
----
 
 ## 🔄 Near Real-Time Functionality
 
